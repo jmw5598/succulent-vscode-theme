@@ -1,4 +1,6 @@
-# Succulent VS Code THeme
+# Succulent VS Code Theme
+
+This is an Atom UI and syntax theme to go with [Tony Zhu's DotfilesSucculent][2] unix theme.  
 
 ### Install
 
@@ -10,3 +12,11 @@
 ### Screenshot
 
 ![Image of Succulent UI Atom theme](https://i.ibb.co/cryGjB1/succulent-vs-code.png)
+
+
+#### Links
+
+Original Theme: [DotfilesSucculent][1]
+
+[1]: https://github.com/snickerton/DotfilesSucculent
+[2]: https://github.com/snickerton
